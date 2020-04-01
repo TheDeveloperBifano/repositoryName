@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string>
+use namespace std;
+
+int main(){
+        string phrase;
+        cin >> phrase;
+        
+        cout << "tá " << phrase << '\n';
+};
+
+
+output:
+        tá funfante
